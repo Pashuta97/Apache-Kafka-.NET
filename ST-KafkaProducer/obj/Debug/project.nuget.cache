@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7MEY5vYpAhO7W5Xsw+1Zvup/d/JHrEDnqvjWazGkJmldGJdwnJDHTl0/Ce4K0Bj2CmEDmYqoUlbeiFmQBq2mw==",
+  "success": true,
+  "projectFilePath": "D:\\Pasha\\Навчання\\Універ\\5 курс 2020\\2 семестр\\Обробка потокової інформації Матичин\\lab\\ST-Kafka-NET\\ST-KafkaProducer\\ST-KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\confluent.kafka\\1.6.3\\confluent.kafka.1.6.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\librdkafka.redist\\1.6.1\\librdkafka.redist.1.6.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
